@@ -8,9 +8,10 @@ def my_square(y):
 
 def my_square2(x):
     """uses the * operator to calculate square
+    by x * x
     """
-
     return (x * x)
 
 print(my_square(42))
 print(my_square2(42))
+print(my_square(10))
