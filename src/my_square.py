@@ -16,6 +16,9 @@ def my_square2(x):
 def my_cube(x):
     return (x ** 3)
 
+def my_cube3(x):
+    return (x * x * x)
+
 
 print(my_square(42))
 print(my_square2(12))
