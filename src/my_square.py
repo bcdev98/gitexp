@@ -1,7 +1,7 @@
 def my_square(x):
     """Take a value and returns the squared value
 
-    uses the ** operator
+    uses the ** operator for square
     """
     return (x ** 2)
 
@@ -14,6 +14,8 @@ def my_square2(x):
     return (x * x)
 
 def my_cube(x):
+    """use ** operator to calculate cube
+    """
     return (x ** 3)
 
 def my_cube3(x):
